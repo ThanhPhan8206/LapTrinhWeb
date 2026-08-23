@@ -1,10 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 using System.Collections.Generic;
 using WebAppDEMO.Models;
 
 namespace WebAppDEMO.Controllers
 {
-    public class ProductController : Controller
+    public class HomeController : Controller
     {
         public IActionResult Index()
         {
@@ -15,8 +16,18 @@ namespace WebAppDEMO.Controllers
                 new Product{ Id=3, Name="Product 3", Price=550000m, Stock=20, ImageUrl="/images/product3.jpg", CreatedAt = System.DateTime.Parse("2020-12-25")},
                 new Product{ Id=4, Name="Product 4", Price=550000m, Stock=2, ImageUrl="/images/product4.jpg", CreatedAt = System.DateTime.Parse("2020-12-25")}
             };
-
             return View(products);
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
