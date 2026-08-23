@@ -11,22 +11,34 @@
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="/images/banner.svg" class="d-block w-100" alt="Banner" style="height:320px; object-fit:cover;" />
-            <div class="carousel-caption d-none d-md-block">
-                <h5>Microsoft Azure</h5>
-                <p>Learn how Microsoft's Azure cloud platform allows you to build, deploy, and scale web apps.</p>
-                <p><a class="btn btn-sm btn-light" href="#">Learn More</a></p>
+            <div class="carousel-banner-bg">
+                <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                </button>
+
+                <div class="carousel-banner-content">
+                    <div class="banner-header">
+                        <h4>Microsoft Azure</h4>
+                        <span class="banner-divider">|</span>
+                        <div class="banner-icons">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff"><circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff"><path d="M12 2 L22 8 L22 16 L12 22 L2 16 L2 8 Z" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff"><rect x="2" y="2" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff"><rect x="2" y="2" width="9" height="9" stroke="currentColor" stroke-width="2" fill="none"/><rect x="13" y="2" width="9" height="9" stroke="currentColor" stroke-width="2" fill="none"/><rect x="2" y="13" width="9" height="9" stroke="currentColor" stroke-width="2" fill="none"/><rect x="13" y="13" width="9" height="9" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+                        </div>
+                    </div>
+
+                    <p class="banner-description">Learn how Microsoft's Azure cloud platform allows you to build, deploy, and scale web apps.</p>
+
+                    <a class="btn btn-sm btn-light" href="#">Learn More</a>
+                </div>
+
+                <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                </button>
             </div>
         </div>
     </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </button>
 </div>
 
 <div class="container">
