@@ -1,11 +1,11 @@
-@model IEnumerable<WebAppDEMO.Models.Product>
+﻿@model IEnumerable<WebAppDEMO.Models.Product>
 
 @{
-    ViewData["Title"] = "Quản lý sản phẩm";
+    ViewData["Title"] = "Products";
 }
 
 <div class="container">
-    <h1 class="mb-4">Quản lý sản phẩm</h1>
+    <h1 class="mb-4">Product list</h1>
 
     <table class="table table-striped">
         <thead>

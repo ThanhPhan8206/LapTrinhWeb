@@ -1,21 +1,21 @@
-@model IEnumerable<WebAppDEMO.Models.Product>
+﻿@model IEnumerable<WebAppDEMO.Models.Product>
 
 @{
-    ViewData["Title"] = "Quản lý sản phẩm";
+    ViewData["Title"] = "Products";
 }
 
 <div class="container">
-    <h1 class="mb-4">Quản lý sản phẩm</h1>
+    <h1 class="mb-4">Product list</h1>
 
     <table class="table table-striped">
         <thead>
             <tr>
-                <th>ID</th>
-                <th>Name</th>
+                <th>#</th>
+                <th>Product</th>
                 <th>Price</th>
-                <th>Created At</th>
+                <th>Stock</th>
                 <th>Image</th>
-                <th>Actions</th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -24,10 +24,10 @@
                 <tr>
                     <td>@p.Id</td>
                     <td>@p.Name</td>
-                    <td>@string.Format("{0:N0} đ", p.Price)</td>
-                    <td>@p.CreatedAt.ToString("dd-MM-yyyy")</td>
+                    <td>@string.Format("{0:C}", p.Price)</td>
+                    <td>@p.Stock</td>
                     <td><img src="@p.ImageUrl" alt="@p.Name" style="width:60px;" /></td>
-                    <td><a class="btn btn-sm btn-success" href="#">View</a></td>
+                    <td><a class="btn btn-sm btn-outline-primary" href="#">Details</a></td>
                 </tr>
             }
         </tbody>

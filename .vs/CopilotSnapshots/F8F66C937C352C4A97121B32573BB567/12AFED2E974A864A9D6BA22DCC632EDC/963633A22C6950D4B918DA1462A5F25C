@@ -1,0 +1,48 @@
+﻿@model IEnumerable<WebAppDEMO.Models.Product>
+
+@{
+    ViewData["Title"] = "Thanh Phan";
+    var productList = Model?.ToList() ?? new List<WebAppDEMO.Models.Product>();
+}
+
+<div id="mainCarousel" class="carousel slide mb-4" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="/images/banner.svg" class="d-block w-100" alt="Banner" style="height:320px; object-fit:cover;" />
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Microsoft Azure</h5>
+                <p>Learn how Microsoft's Azure cloud platform allows you to build, deploy, and scale web apps.</p>
+                <p><a class="btn btn-sm btn-light" href="#">Learn More</a></p>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<div class="container">
+    <h2 class="mb-3">Danh sách sản phẩm</h2>
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        @foreach (var product in productList)
+        {
+            <div class="col">
+                <div class="card h-100 text-center product-card">
+                    <img src="@product.ImageUrl" class="card-img-top mx-auto p-3" style="height:160px; object-fit:contain;" alt="@product.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">@string.Format("{0:N0} đ", product.Price)</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
