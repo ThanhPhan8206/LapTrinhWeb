@@ -1,0 +1,56 @@
+﻿@model List<PhtLesson03.Models.Product>
+@{
+    ViewData["Title"] = "Sản phẩm";
+}
+
+<div class="container-fluid mt-4">
+    <div class="row g-4">
+        <!-- Cột danh mục bên trái -->
+        <div class="col-lg-3">
+            <h5 class="text-uppercase fw-bold mb-3 pb-2 border-bottom">Danh mục</h5>
+            <div class="list-group list-group-flush">
+                <a href="/Product/Index" class="list-group-item list-group-item-action border-0 px-0 py-2">
+                    Tất cả
+                </a>
+                @foreach (var cat in ViewBag.Categories)
+                {
+                    <a href="/Product/Index?categoryId=@cat.Id" class="list-group-item list-group-item-action border-0 px-0 py-2">
+                        @cat.Name
+                    </a>
+                }
+            </div>
+        </div>
+
+        <!-- Cột sản phẩm bên phải -->
+        <div class="col-lg-9">
+            <h4 class="fw-bold mb-4">Danh sách sản phẩm</h4>
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                @foreach (var item in Model)
+                {
+                    <div class="col">
+                        <div class="card h-100 border-0 shadow-sm rounded-3 overflow-hidden">
+                            <!-- Ảnh sản phẩm -->
+                            <div class="position-relative overflow-hidden" style="height: 280px;">
+                                <img src="~/@item.Image" class="card-img-top w-100 h-100" alt="@item.Name" style="object-fit: cover;" />
+                            </div>
+
+                            <!-- Thông tin sản phẩm -->
+                            <div class="card-body pb-2">
+                                <h6 class="card-title fw-bold text-dark mb-2">@item.Name</h6>
+                                <p class="card-text mb-0" style="font-size: 0.95rem;">
+                                    <span class="text-muted text-decoration-line-through me-2">@item.Price.ToString("N0")</span>
+                                    <span class="fw-bold text-danger">@item.SalePrice.ToString("N0")</span>
+                                </p>
+                            </div>
+
+                            <!-- Nút chi tiết -->
+                            <div class="card-footer bg-white border-0 text-center pt-0">
+                                <a href="/Product/Detail/@item.Id" class="btn btn-success rounded-0 w-100 py-2">Chi tiết</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
