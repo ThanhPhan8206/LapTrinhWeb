@@ -1,0 +1,78 @@
+@model Bài_1_Tạo_form_và_sử_dụng_các_thuộc_tính_mở_rộng_trên_form.Models.Book
+@{
+    ViewData["Title"] = "Chỉnh sửa sách";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h2 class="mb-4">Chỉnh sửa sách</h2>
+
+            <form asp-action="Edit" method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="Title" class="form-label">Tên sách</label>
+                    <input type="text" class="form-control" asp-for="Title" placeholder="Lâu Học">
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="AuthorId" class="form-label">Tác giả</label>
+                    <select asp-for="AuthorId" class="form-control" asp-items="@ViewBag.authors">
+                        <option value="">Chọn tác giả</option>
+                    </select>
+                    <span asp-validation-for="AuthorId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="GenresId" class="form-label">Thể loại</label>
+                    <select asp-for="GenresId" class="form-control" asp-items="@ViewBag.genres">
+                        <option value="">Chọn Thể loại</option>
+                    </select>
+                    <span asp-validation-for="GenresId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Price" class="form-label">Giá sách</label>
+                    <input type="number" class="form-control" asp-for="Price" placeholder="700000">
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="TotalPage" class="form-label">Tổng số trang</label>
+                    <input type="number" class="form-control" asp-for="TotalPage" placeholder="400">
+                    <span asp-validation-for="TotalPage" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Image" class="form-label">Hình ảnh/ Poster</label>
+                    <input type="text" class="form-control" asp-for="Image" placeholder="Đường dẫn hình ảnh (vd: image/LaoHac.jpg)">
+                    <small class="form-text text-muted">Nhập đường dẫn hình ảnh hoặc tên file trong thư mục wwwroot/image/</small>
+                    @if (!string.IsNullOrEmpty(Model.Image))
+                    {
+                        <div class="mt-2">
+                            <img src="~/@Model.Image" alt="@Model.Title" style="max-width: 200px; height: auto;" />
+                        </div>
+                    }
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Summary" class="form-label">Ghi thêm người</label>
+                    <textarea class="form-control" asp-for="Summary" placeholder="Nội dung giới thiệu sách..." rows="4"></textarea>
+                    <span asp-validation-for="Summary" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <button type="submit" class="btn btn-primary">Cập nhật</button>
+                    <a href="@Url.Action("Index")" class="btn btn-secondary">Hủy</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

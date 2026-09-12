@@ -1,0 +1,99 @@
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.GeneratedMSBuildEditorConfig.editorconfig
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.AssemblyInfoInputs.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.AssemblyInfo.cs
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.csproj.CoreCompileInputs.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.MvcApplicationPartsAssemblyInfo.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.RazorAssemblyInfo.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.RazorAssemblyInfo.cs
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.sourcelink.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\appsettings.Development.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\appsettings.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.staticwebassets.runtime.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.staticwebassets.endpoints.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.exe
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.deps.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.runtimeconfig.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\bin\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.pdb
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\scopedcss\bundle\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.styles.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\scopedcss\projectbundle\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.bundle.scp.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\ltmv6w6n9s-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\0y9y42qtvd-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\swstk9p99u-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\0uaedl2zvr-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\o6urw9ey6r-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\w2dfb1nguz-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\08knr1i033-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\k4x6u3wyjv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\t7fhjvwqki-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\8lxw1z5uot-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\rvt93dsy5c-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\9vyausmwxi-{0}-ub07r2b239-ub07r2b239.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\wo1u22277d-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\tu2miih42h-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\v0abwv63kx-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\6zje9eudmn-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\u94wdjw8by-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\i9wiii5c0v-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\4cc2u6wbj9-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\x76r923uno-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\n9vpw1fyfx-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\j1wjbm3um5-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\64enlsz0af-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\4tg3hg8edv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\l82p0yvgvi-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\eww158bf6s-{0}-06098lyss8-06098lyss8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\o5ie23vkzx-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\1ddcd60fxx-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\dib9bch9au-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\14lyaqkemh-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\j7scecibf5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\hy8piok6eo-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\4v1p8q10sp-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\5nmt783rec-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\8xjf2jz0rg-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\x4toazumlk-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\1ik4aormzy-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\i29fqjrn13-{0}-493y06b0oq-493y06b0oq.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\01z8dpl5fl-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\n9kei03ujh-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\q2qwqgzeac-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\qpt4uq5m56-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\37t3nn62ve-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\qvucbq5c7k-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\fxyzugyskn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\1i1ra3ligl-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\tpohi6agec-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\n3h44hcb0k-{0}-47otxtyo56-47otxtyo56.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\nq6gcnwngd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\896w0e2ija-{0}-356vix0kms-356vix0kms.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\70b3cn6f3j-{0}-83jwlth58m-83jwlth58m.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\12eug1ckbc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\xzihin7f3a-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\v7aobt00m1-{0}-ag7o75518u-ag7o75518u.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\ik8rzq8yap-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\p69hiqjflu-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\u3n8e8vknv-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\whmx0i08a9-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\ljm3butp9x-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\g1cftwds0b-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\mmdciwom7p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\sgc0t4gjd1-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\a7rgbcqanx-{0}-lotkkptr9f-lotkkptr9f.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\compressed\7fhibixc53-{0}-lotkkptr9f-lotkkptr9f.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\staticwebassets.build.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\staticwebassets.development.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\swae.build.ex.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\refint\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.pdb
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.genruntimeconfig.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form\obj\Debug\net10.0\ref\Bài 1 Tạo form và sử dụng các thuộc tính mở rộng trên form.dll

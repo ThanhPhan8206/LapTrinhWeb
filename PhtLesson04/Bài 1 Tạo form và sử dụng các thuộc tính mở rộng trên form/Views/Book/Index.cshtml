@@ -1,0 +1,152 @@
+﻿@model List<Bài_1_Tạo_form_và_sử_dụng_các_thuộc_tính_mở_rộng_trên_form.Models.Book>
+@{
+    ViewData["Title"] = "Danh sách sách";
+    var authors = (List<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>)ViewBag.authors;
+    var genres = (List<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>)ViewBag.genres;
+    var selectedAuthorId = ViewBag.selectedAuthorId?.ToString() ?? "";
+    var selectedGenreId = ViewBag.selectedGenreId?.ToString() ?? "";
+}
+
+<div class="container mt-5">
+    <h2>Danh sách các cuốn sách</h2>
+
+    <!-- Filter Section -->
+    <form method="get" id="filterForm" class="mb-4">
+        <div class="row align-items-end">
+            <div class="col-md-3">
+                <label class="form-label">Chọn tác giả:</label>
+                <select name="authorId" class="form-control">
+                    <option value="">-- Tất cả --</option>
+                    @foreach (var author in authors)
+                    {
+                        if (author.Value == selectedAuthorId)
+                        {
+                            <option value="@author.Value" selected>@author.Text</option>
+                        }
+                        else
+                        {
+                            <option value="@author.Value">@author.Text</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="col-md-3">
+                <label class="form-label">Chọn Thể loại:</label>
+                <select name="genreId" class="form-control">
+                    <option value="">-- Tất cả --</option>
+                    @foreach (var genre in genres)
+                    {
+                        if (genre.Value == selectedGenreId)
+                        {
+                            <option value="@genre.Value" selected>@genre.Text</option>
+                        }
+                        else
+                        {
+                            <option value="@genre.Value">@genre.Text</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="col-md-3">
+                <button type="submit" class="btn btn-primary w-100">Tìm kiếm</button>
+            </div>
+
+            <div class="col-md-3">
+                <a href="@Url.Action("Index")" class="btn btn-secondary w-100">Xóa bộ lọc</a>
+            </div>
+        </div>
+    </form>
+
+    <div class="mb-4">
+        <a href="@Url.Action("Create")" class="btn btn-success">+ Thêm mới sách</a>
+    </div>
+
+    <!-- Book List Table -->
+    @if (Model.Count > 0)
+    {
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Mã</th>
+                    <th>Tiêu đề</th>
+                    <th>Tác giả</th>
+                    <th>Thể loại</th>
+                    <th>Giá</th>
+                    <th>Hình ảnh</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    var author = "N/A";
+                    var genre = "N/A";
+
+                    foreach (var auth in authors)
+                    {
+                        if (auth.Value == item.AuthorId.ToString())
+                        {
+                            author = auth.Text;
+                            break;
+                        }
+                    }
+
+                    foreach (var gen in genres)
+                    {
+                        if (gen.Value == item.GenresId.ToString())
+                        {
+                            genre = gen.Text;
+                            break;
+                        }
+                    }
+
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Title</td>
+                        <td>@author</td>
+                        <td>@genre</td>
+                        <td>@item.Price.ToString("N0") đ</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.Image))
+                            {
+                                <img src="~/@item.Image" alt="@item.Title" style="width: 50px; height: auto;" />
+                            }
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-sm btn-primary">Sửa</a>
+                            <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-sm btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa?');">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info">
+            Không có sách nào phù hợp với tiêu chí tìm kiếm.
+        </div>
+    }
+</div>
+
+<style>
+    .form-inline {
+        display: flex;
+        align-items: center;
+    }
+
+    .form-inline select {
+        margin-left: 10px;
+    }
+</style>
+
+<script>
+    // Auto-submit form when filter changes
+    document.querySelectorAll('#filterForm select').forEach(select => {
+        select.addEventListener('change', function() {
+            document.getElementById('filterForm').submit();
+        });
+    });
+</script>

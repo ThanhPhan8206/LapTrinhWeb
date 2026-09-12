@@ -1,0 +1,99 @@
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\appsettings.Development.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\appsettings.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.staticwebassets.runtime.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.staticwebassets.endpoints.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.exe
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.deps.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.runtimeconfig.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\bin\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.pdb
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.GeneratedMSBuildEditorConfig.editorconfig
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.AssemblyInfoInputs.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.AssemblyInfo.cs
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.csproj.CoreCompileInputs.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.MvcApplicationPartsAssemblyInfo.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.RazorAssemblyInfo.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.RazorAssemblyInfo.cs
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.sourcelink.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\scopedcss\bundle\Bài 2 Tạo và sử dụng PartialView.styles.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\scopedcss\projectbundle\Bài 2 Tạo và sử dụng PartialView.bundle.scp.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\86bdjggvn9-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\aqljnwxp3r-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\3njmcd1m85-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\hmt6jsik0f-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\fb8jagh8tk-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\nxbnoykeeh-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\c0mauv7zp9-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\i2onrw1qkb-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\c2w9imvotf-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\uojfu4crh1-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\xipfdxjfcl-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\ubddcds1wv-{0}-ub07r2b239-ub07r2b239.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\gb5aokdzxb-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\ggv9c0xjp3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\dvngh3hb6d-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\v2k94t0nou-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\dg48vg3rrf-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\e7lss1jcbd-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\dkcfcl6xak-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\pg9dzf595p-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\ovdk8u859w-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\f5e0efysk4-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\hehxvmxxnv-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\8xg2wlx935-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\rn9flodxn5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\e0g1ogycnh-{0}-06098lyss8-06098lyss8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\84gnd0wkbv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\o2byp69ta7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\dupdtkim1r-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\u61iq2mwzb-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\ptvny09t7j-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\cgxdked6o3-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\2xz6hq5fxs-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\3utkbexfdn-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\xmqycwhwtq-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\zi0hv2geqk-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\x2ebelpl3f-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\gm86f390u5-{0}-493y06b0oq-493y06b0oq.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\g4vvmiacqn-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\ulf1x64h9m-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\nhtv776zzm-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\73k9voemi7-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\umnvv7pjt2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\fjczcecjw3-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\2rorcpmiv0-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\0xndhizyz0-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\x7knxm6b4l-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\dvtf3pkgmm-{0}-47otxtyo56-47otxtyo56.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\eyrm9hstd4-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\xjc3inx2i2-{0}-356vix0kms-356vix0kms.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\dp8qzzh1gv-{0}-83jwlth58m-83jwlth58m.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\6lqmo098hl-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\trhce1d5k9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\shjk1y1ov4-{0}-ag7o75518u-ag7o75518u.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\c9wveivbyz-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\1laecia2l6-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\ejcwkbucds-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\tapsvvpknl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\36y3nq6d5x-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\8bisoe2ki9-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\glhhymji2k-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\uxzeji355w-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\kuhsbm6jcj-{0}-e3ofzjco95-e3ofzjco95.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\compressed\tzsekrog9y-{0}-e3ofzjco95-e3ofzjco95.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\staticwebassets.build.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\staticwebassets.development.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\swae.build.ex.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\refint\Bài 2 Tạo và sử dụng PartialView.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.pdb
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\Bài 2 Tạo và sử dụng PartialView.genruntimeconfig.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài 2 Tạo và sử dụng PartialView\obj\Debug\net10.0\ref\Bài 2 Tạo và sử dụng PartialView.dll

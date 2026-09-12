@@ -1,0 +1,77 @@
+﻿@using Bài_tập_tự_làm.Models
+
+@{
+    ViewData["Title"] = "Sản Phẩm Nồi Điện Nagakawa";
+    var categories = ViewData["Categories"] as List<Category> ?? new List<Category>();
+    var products = ViewData["Products"] as List<Product> ?? new List<Product>();
+}
+
+<!-- Navbar -->
+<nav class="navbar navbar-light bg-dark navbar-expand-lg mb-4">
+    <div class="container-fluid">
+        <div class="d-flex align-items-center gap-4">
+            <a class="navbar-brand text-white fw-bold mb-0" href="#">DEMOLAB</a>
+            <div class="d-flex gap-3">
+                <a class="text-white text-decoration-none" href="#">Trang chủ</a>
+                <a class="text-white text-decoration-none" href="#">Giới thiệu</a>
+                <a class="text-white text-decoration-none" href="#">Liên hệ</a>
+                <a class="text-white text-decoration-none" href="#">Sản phẩm</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar - Danh Mục -->
+        <div class="col-md-3 mb-4">
+            <div class="card">
+                <div class="card-header bg-primary text-white fw-bold">
+                    Danh Mục Sản Phẩm
+                </div>
+                <div class="card-body">
+                    @await Html.PartialAsync("_CategoryList", categories)
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content - Sản Phẩm Chính -->
+        <div class="col-md-9">
+            <div class="row mb-2">
+                <div class="col">
+                    <h5 class="bg-primary text-white p-2 rounded" style="margin-bottom: 0;">Sản Phẩm Mới Nhất</h5>
+                </div>
+            </div>
+
+            <!-- Grid sản phẩm - 3 cột -->
+            <div class="row mb-5">
+                @foreach (var product in products.Where(p => !p.IsHot).Take(6))
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card product-card h-100">
+                            <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name" style="height: 200px; object-fit: cover;">
+                            <div class="card-body">
+                                <h6 class="card-title">@product.Name</h6>
+                                <p class="card-text small text-muted">@product.Description</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            </div>
+    </div>
+</div>
+
+<!-- Footer thông tin -->
+<hr class="my-5" />
+<div class="row bg-dark text-white p-4 mt-5 mx-0">
+    <div class="col-md-6">
+        <h6>GIỚI THIỆU</h6>
+        <p>Công ty sản xuất các sản phẩm điện gia dụng chất lượng cao, được nhiều gia đình tin tưởng sử dụng.</p>
+    </div>
+    <div class="col-md-6">
+        <h6>LIÊN HỆ</h6>
+        <p>Hotline: 1900-XXXX | Email: contact@nagakawa.com</p>
+    </div>
+</div>

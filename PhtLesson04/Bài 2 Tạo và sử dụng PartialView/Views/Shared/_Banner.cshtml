@@ -1,0 +1,136 @@
+<!-- Banner PartialView - ASP.NET Core Style -->
+<style>
+    .banner-container {
+        background: linear-gradient(135deg, #17a2b8 0%, #20c997 100%);
+        padding: 40px 0;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .banner-tabs {
+        background-color: rgba(0, 0, 0, 0.1);
+        border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+        padding: 0;
+        margin: 0 0 30px 0;
+        display: flex;
+        justify-content: center;
+        gap: 0;
+    }
+
+    .banner-tabs button {
+        background: none;
+        border: none;
+        color: white;
+        padding: 15px 25px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        border-bottom: 3px solid transparent;
+    }
+
+    .banner-tabs button:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+        border-bottom-color: white;
+    }
+
+    .banner-tabs button.active {
+        background-color: rgba(0, 0, 0, 0.15);
+        border-bottom-color: white;
+    }
+
+    .banner-content {
+        text-align: center;
+        color: white;
+        position: relative;
+        z-index: 2;
+    }
+
+    .banner-content h2 {
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+
+    .banner-message {
+        background-color: rgba(76, 175, 80, 0.9);
+        color: white;
+        padding: 12px 20px;
+        border-radius: 4px;
+        display: inline-block;
+        margin-bottom: 20px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .banner-text {
+        font-size: 16px;
+        margin-bottom: 20px;
+        opacity: 0.95;
+    }
+
+    .banner-btn {
+        background-color: #dc3545;
+        color: white;
+        padding: 10px 25px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        transition: background-color 0.3s ease;
+    }
+
+    .banner-btn:hover {
+        background-color: #c82333;
+    }
+
+    .banner-nav {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: none;
+        border: none;
+        color: white;
+        font-size: 30px;
+        cursor: pointer;
+        padding: 10px 15px;
+        opacity: 0.7;
+        transition: opacity 0.3s ease;
+    }
+
+    .banner-nav:hover {
+        opacity: 1;
+    }
+
+    .banner-prev {
+        left: 10px;
+    }
+
+    .banner-next {
+        right: 10px;
+    }
+</style>
+
+<div class="banner-container">
+    <!-- Tab Navigation -->
+    <div class="banner-tabs">
+        <button class="active">ASP.NET Core</button>
+        <button>Windows</button>
+        <button>Linux</button>
+        <button>OSX</button>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="banner-content">
+            <h2>Welcome to ASP.NET Core</h2>
+            <p class="banner-text">Tìm hiểu về xây dựng các ứng dụng web hiện đại với ASP.NET Core</p>
+            <button class="banner-btn">Learn More</button>
+        </div>
+    </div>
+
+    <!-- Navigation Arrows -->
+    <button class="banner-nav banner-prev" onclick="alert('Previous slide')">‹</button>
+    <button class="banner-nav banner-next" onclick="alert('Next slide')">›</button>
+</div>

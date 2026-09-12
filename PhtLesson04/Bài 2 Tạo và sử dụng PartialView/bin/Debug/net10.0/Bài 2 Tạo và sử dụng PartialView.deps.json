@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bài 2 Tạo và sử dụng PartialView/1.0.0": {
+        "runtime": {
+          "Bài 2 Tạo và sử dụng PartialView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bài 2 Tạo và sử dụng PartialView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

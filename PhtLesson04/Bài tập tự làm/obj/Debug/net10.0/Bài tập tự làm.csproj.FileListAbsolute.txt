@@ -1,0 +1,99 @@
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\appsettings.Development.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\appsettings.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\Bài tập tự làm.staticwebassets.runtime.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\Bài tập tự làm.staticwebassets.endpoints.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\Bài tập tự làm.exe
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\Bài tập tự làm.deps.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\Bài tập tự làm.runtimeconfig.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\Bài tập tự làm.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\bin\Debug\net10.0\Bài tập tự làm.pdb
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.GeneratedMSBuildEditorConfig.editorconfig
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.AssemblyInfoInputs.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.AssemblyInfo.cs
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.csproj.CoreCompileInputs.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.MvcApplicationPartsAssemblyInfo.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.RazorAssemblyInfo.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.RazorAssemblyInfo.cs
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.sourcelink.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\scopedcss\bundle\Bài tập tự làm.styles.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\scopedcss\projectbundle\Bài tập tự làm.bundle.scp.css
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\79mtecxhlk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\frigajm822-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\5460ard16i-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\8dxc1n8xtu-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\6uqvc0dggg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\yrqi2r0i7e-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\zbmki7t08m-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\rli0pva0up-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\vvlrm6q2kj-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\ij29tkap5k-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\yfwsc2vjrs-{0}-ub07r2b239-ub07r2b239.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\zak4i8xn48-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\sxsbi2d9nu-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\wt1r73qzbl-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\xmhcuq1660-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\e9rwi56pao-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\nxefo2elu8-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\gfnohrpn5h-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\ir679ezrs7-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\l98dhxhgvb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\p2lkyqfjwh-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\uc4zch3klt-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\ddd5xlodew-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\gw51tyce68-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\x6v6cijlt9-{0}-06098lyss8-06098lyss8.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\2ntbolj4pr-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\a7s6dzwiim-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\slrbr00j1g-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\obudxtnm5c-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\vorj2l6cfn-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\1yq0yz4tpz-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\l55bj2ocam-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\5ezrb7crvt-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\v8o0cy3clx-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\acbyu20ydf-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\fde6tcdtdo-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\yhj4w4n7ge-{0}-493y06b0oq-493y06b0oq.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\8gr1p4b2fk-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\txmqva6wu3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\oj03bd2qh9-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\85s2mk1so8-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\wgq07mti9d-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\n7mvkth9p6-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\vsedv802nx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\4ykuar4lh7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\0jkb0f0cqu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\v8t2uxkje0-{0}-47otxtyo56-47otxtyo56.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\gquls13ey6-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\qv14e85s2k-{0}-356vix0kms-356vix0kms.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\7xhapmp8zh-{0}-83jwlth58m-83jwlth58m.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\c7poy1m9is-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\5axt21050s-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\xj66dm9f8u-{0}-ag7o75518u-ag7o75518u.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\ff3q3xc0nh-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\ifs4ez0pum-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\kwe6mb2n0s-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\3g9tee325f-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\xsw2hw6b3g-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\pok8xb6ln6-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\vt1qvyj1iw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\w5b8n3ac7d-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\da761tw4r2-{0}-dr8uksl9mb-dr8uksl9mb.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\2g9d5137my-{0}-2grsgkvxcv-2grsgkvxcv.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\compressed\htlui8hfzk-{0}-2grsgkvxcv-2grsgkvxcv.gz
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\staticwebassets.build.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\staticwebassets.development.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\swae.build.ex.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\refint\Bài tập tự làm.dll
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.pdb
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\Bài tập tự làm.genruntimeconfig.cache
+C:\LapTrinh\UTC_LTW\PhtLesson04\Bài tập tự làm\obj\Debug\net10.0\ref\Bài tập tự làm.dll
