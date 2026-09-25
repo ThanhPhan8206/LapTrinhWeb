@@ -1,0 +1,50 @@
+﻿@model Lesson06.Models.PhtMember
+
+@{
+    ViewData["Title"] = "PhtCreate";
+}
+
+<h1>PhtCreate</h1>
+
+<h4>PhtMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="PhtCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PhtMemberId" class="control-label"></label>
+                <input asp-for="PhtMemberId" class="form-control" />
+                <span asp-validation-for="PhtMemberId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhtMemberUserName" class="control-label"></label>
+                <input asp-for="PhtMemberUserName" class="form-control" />
+                <span asp-validation-for="PhtMemberUserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhtMemberPassword" class="control-label"></label>
+                <input asp-for="PhtMemberPassword" class="form-control" />
+                <span asp-validation-for="PhtMemberPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhtMemberEmail" class="control-label"></label>
+                <input asp-for="PhtMemberEmail" class="form-control" />
+                <span asp-validation-for="PhtMemberEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhtMemberFullName" class="control-label"></label>
+                <input asp-for="PhtMemberFullName" class="form-control" />
+                <span asp-validation-for="PhtMemberFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

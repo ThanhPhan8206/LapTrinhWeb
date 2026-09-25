@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Lesson06.Models.PhtMember>
+
+@{
+    ViewData["Title"] = "PhtIndex";
+}
+
+<h1>PhtIndex</h1>
+
+<p>
+    <a asp-action="PhtCreate">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PhtMemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhtMemberUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhtMemberPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhtMemberEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhtMemberFullName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhtMemberId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhtMemberUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhtMemberPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhtMemberEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhtMemberFullName)
+            </td>
+            <td>
+                    @Html.ActionLink("Sửa", "PhtEdit", new { id = item.PhtMemberId }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
