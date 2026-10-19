@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Bài_tập_tự_làm.Models.Product>
+
+<div class="hot-products-section">
+    <h5 class="mb-4">Sản Phẩm Nổi Bật</h5>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="~/images/@product.ImageUrl" class="card-img-top" alt="@product.Name" style="height: 250px; object-fit: cover;">
+                    <div class="card-body">
+                        <h6 class="card-title">@product.Name</h6>
+                        <p class="card-text small">@product.Description</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="text-danger fw-bold">@string.Format("{0:N0}", product.Price) đ</span>
+                            <a href="#" class="btn btn-warning btn-sm">Load or View Action</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

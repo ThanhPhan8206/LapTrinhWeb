@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Giới thiệu";
+}
+<div class="container my-5">
+    <h1>@ViewData["Title"]</h1>
+
+    <section class="mt-4">
+        <h2>Về Cửa hàng Túi Xách của chúng tôi</h2>
+        <p>
+            Chào mừng bạn đến với cửa hàng túi xách trực tuyến của chúng tôi. Chúng tôi cung cấp những chiếc túi xách 
+            chất lượng cao, thiết kế hiện đại và phong cách từ các thương hiệu nổi tiếng trên thế giới.
+        </p>
+    </section>
+
+    <section class="mt-4">
+        <h2>Dòng sản phẩm</h2>
+        <ul>
+            <li><strong>Túi xách công sở:</strong> Những chiếc túi sang trọng, tinh tế phù hợp cho không gian làm việc chuyên nghiệp</li>
+            <li><strong>Túi xách dạo phố:</strong> Thiết kế năng động, thoải mái cho các hoạt động hàng ngày</li>
+            <li><strong>Túi xách dự tiệc:</strong> Những chiếc túi lịch lãm, quyến rũ cho các sự kiện đặc biệt</li>
+            <li><strong>Túi du lịch:</strong> Chắc chắn, tiện dụng và phong cách để đi du lịch</li>
+        </ul>
+    </section>
+
+    <section class="mt-4">
+        <h2>Tại sao chọn chúng tôi?</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <h5>🎯 Chất lượng cao cấp</h5>
+                <p>Tất cả sản phẩm được kiểm tra kỹ lưỡng để đảm bảo độ bền và chất lượng tốt nhất</p>
+            </div>
+            <div class="col-md-6">
+                <h5>💰 Giá cạnh tranh</h5>
+                <p>Chúng tôi cung cấp giá tốt nhất mà không ảnh hưởng đến chất lượng sản phẩm</p>
+            </div>
+            <div class="col-md-6 mt-3">
+                <h5>🚚 Giao hàng nhanh</h5>
+                <p>Giao hàng miễn phí cho các đơn hàng trên 500,000 đ. Bảo đảm nhận hàng trong 3-5 ngày</p>
+            </div>
+            <div class="col-md-6 mt-3">
+                <h5>⭐ Dịch vụ khách hàng</h5>
+                <p>Đội ngũ hỗ trợ khách hàng 24/7 sẵn sàng giúp bạn với bất kỳ câu hỏi nào</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="mt-4">
+        <h2>Chính sách hoàn trả</h2>
+        <p>
+            Chúng tôi cam kết sự hài lòng của khách hàng. Nếu bạn không hài lòng với sản phẩm của mình, 
+            bạn có thể hoàn trả trong vòng 30 ngày để nhận lại toàn bộ tiền của bạn.
+        </p>
+    </section>
+
+    <section class="mt-4">
+        <h2>Liên hệ với chúng tôi</h2>
+        <p>
+            Có bất kỳ câu hỏi hoặc cần hỗ trợ? Hãy liên hệ với chúng tôi qua email hoặc điện thoại:
+        </p>
+        <p>
+            <strong>Email:</strong> support@handbagstore.com<br>
+            <strong>Điện thoại:</strong> (123) 456-7890<br>
+            <strong>Giờ làm việc:</strong> Thứ 2 - Chủ Nhật, 09:00 - 21:00
+        </p>
+    </section>
+</div>

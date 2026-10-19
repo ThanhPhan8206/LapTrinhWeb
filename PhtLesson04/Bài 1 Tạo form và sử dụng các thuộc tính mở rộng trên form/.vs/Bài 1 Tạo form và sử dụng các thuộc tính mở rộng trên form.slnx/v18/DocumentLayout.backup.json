@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|c:\\laptrinh\\utc_ltw\\phtlesson04\\b\u00E0i 1 t\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|c:\\laptrinh\\utc_ltw\\phtlesson04\\b\u00E0i 1 t\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|solutionrelative:views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|c:\\laptrinh\\utc_ltw\\phtlesson04\\b\u00E0i 1 t\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\views\\bookcontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|solutionrelative:views\\bookcontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|c:\\laptrinh\\utc_ltw\\phtlesson04\\b\u00E0i 1 t\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6D274A-806E-3552-E8FA-1B35F1AD6937}|B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form.csproj|c:\\laptrinh\\utc_ltw\\phtlesson04\\b\u00E0i 1 t\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\Views\\Book\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\Views\\Book\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
@@ -91,8 +91,7 @@
               "RelativeToolTip": "Views\\Book\\Index.cshtml",
               "ViewState": "AgIAAH8AAAAAAAAAAAAkwJcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-12T15:21:05.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:21:05.974Z"
             },
             {
               "$type": "Document",
@@ -144,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\Views\\BookController\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\BookController\\Index.cshtml",
@@ -156,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
@@ -168,15 +167,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
               "ToolTip": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i 1 T\u1EA1o form v\u00E0 s\u1EED d\u1EE5ng c\u00E1c thu\u1ED9c t\u00EDnh m\u1EDF r\u1ED9ng tr\u00EAn form\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T12:31:18.902Z"
+              "WhenOpened": "2026-09-12T12:31:18.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

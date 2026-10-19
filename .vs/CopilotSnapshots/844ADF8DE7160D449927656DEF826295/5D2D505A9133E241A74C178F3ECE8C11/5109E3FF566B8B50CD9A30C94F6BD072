@@ -1,0 +1,39 @@
+﻿@model PhtLesson03.Models.Product
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container mt-4">
+    <h3 class="mb-4">Chi tiết sản phẩm</h3>
+
+    <div class="row">
+        <!-- Cột hình ảnh bên trái -->
+        <div class="col-md-4">
+            <img src="~/@Model.Image" class="img-fluid border p-1" alt="@Model.Name" />
+        </div>
+
+        <!-- Cột thông tin bên phải -->
+        <div class="col-md-8">
+            <h4>Sản phẩm: @Model.Name</h4>
+
+            <p class="fs-5 mt-3">
+                <del class="text-muted me-2">Giá gốc: @Model.Price</del>
+                <strong>Giá mới @Model.SalePrice</strong>
+            </p>
+
+            <h5 class="mt-4 font-weight-normal">Mô Tả:</h5>
+            <p class="text-muted">@Model.Description</p>
+
+            <p class="fs-6 mt-3">
+                <span class="font-weight-normal">Trạng thái:</span> @(Model.Status ? "Còn hàng" : "Hết hàng")
+            </p>
+
+            <p class="fs-6">
+                <span class="font-weight-normal">Ngày đăng:</span> @Model.CreatedAt.ToString("dd/MM/yyyy hh:mm:ss tt")
+            </p>
+
+            <!-- Nút quay về danh sách màu đỏ -->
+            <a href="/Product/Index" class="btn btn-danger rounded-0 mt-3 px-4">Về danh sách</a>
+        </div>
+    </div>
+</div>

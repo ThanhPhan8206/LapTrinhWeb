@@ -1,0 +1,115 @@
+﻿@model List<Bài_1_Tạo_form_và_sử_dụng_các_thuộc_tính_mở_rộng_trên_form.Models.Book>
+@{
+    ViewData["Title"] = "Danh sách sách";
+}
+
+<div class="container mt-5">
+    <h2>Danh sách các cuốn sách</h2>
+
+    <!-- Filter Section -->
+    <div class="row mb-4 align-items-end">
+        <div class="col-md-3">
+            <form method="get" class="form-inline">
+                <label class="mr-2">Chọn tác giả:</label>
+                <select name="authorId" class="form-control">
+                    <option value="">-- Tất cả --</option>
+                    @foreach (var author in ViewBag.authors)
+                    {
+                        <option value="@author.Value" @(author.Value.ToString() == ViewBag.selectedAuthorId?.ToString() ? "selected" : "")>
+                            @author.Text
+                        </option>
+                    }
+                </select>
+            </form>
+        </div>
+
+        <div class="col-md-3">
+            <form method="get" class="form-inline">
+                <label class="mr-2">Chọn Thể loại:</label>
+                <select name="genreId" class="form-control">
+                    <option value="">-- Tất cả --</option>
+                    @foreach (var genre in ViewBag.genres)
+                    {
+                        <option value="@genre.Value" @(genre.Value.ToString() == ViewBag.selectedGenreId?.ToString() ? "selected" : "")>
+                            @genre.Text
+                        </option>
+                    }
+                </select>
+            </form>
+        </div>
+
+        <div class="col-md-3">
+            <button type="submit" class="btn btn-primary" form="filterForm">Tìm kiếm</button>
+            <a href="@Url.Action("Index")" class="btn btn-secondary">Xóa bộ lọc</a>
+        </div>
+
+        <div class="col-md-3">
+            <a href="@Url.Action("Create")" class="btn btn-success">+ Thêm mới sách</a>
+        </div>
+    </div>
+
+    <form id="filterForm" method="get" style="display: none;">
+        <input type="hidden" name="authorId" value="@ViewBag.selectedAuthorId" />
+        <input type="hidden" name="genreId" value="@ViewBag.selectedGenreId" />
+    </form>
+
+    <!-- Book List Table -->
+    @if (Model.Count > 0)
+    {
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Mã</th>
+                    <th>Tiêu đề</th>
+                    <th>Tác giả</th>
+                    <th>Thể loại</th>
+                    <th>Giá</th>
+                    <th>Hình ảnh</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    var author = ViewBag.authors.FirstOrDefault(a => a.Value.ToString() == item.AuthorId.ToString())?.Text ?? "N/A";
+                    var genre = ViewBag.genres.FirstOrDefault(g => g.Value.ToString() == item.GenresId.ToString())?.Text ?? "N/A";
+
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Title</td>
+                        <td>@author</td>
+                        <td>@genre</td>
+                        <td>@item.Price.ToString("N0") đ</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.Image))
+                            {
+                                <img src="~/@item.Image" alt="@item.Title" style="width: 50px; height: auto;" />
+                            }
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-sm btn-primary">Sửa</a>
+                            <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-sm btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa?');">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info">
+            Không có sách nào phù hợp với tiêu chí tìm kiếm.
+        </div>
+    }
+</div>
+
+<style>
+    .form-inline {
+        display: flex;
+        align-items: center;
+    }
+
+    .form-inline select {
+        margin-left: 10px;
+    }
+</style>

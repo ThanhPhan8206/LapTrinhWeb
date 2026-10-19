@@ -1,0 +1,64 @@
+﻿@model PhtLesson03.Models.Product
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container mt-5">
+    <h4 class="fw-bold mb-4">Chi tiết sản phẩm</h4>
+
+    <div class="row g-5">
+        <!-- Cột ảnh bên trái -->
+        <div class="col-lg-5">
+            <div class="text-center">
+                <img src="~/@Model.Image" class="img-fluid border p-3 rounded-3" alt="@Model.Name" style="max-height: 500px; object-fit: cover;" />
+            </div>
+        </div>
+
+        <!-- Cột thông tin bên phải -->
+        <div class="col-lg-7">
+            <h3 class="fw-bold mb-3">Sản phẩm: @Model.Name</h3>
+
+            <!-- Giá tiền -->
+            <div class="mb-4">
+                <p class="fs-5 mb-0">
+                    <span class="text-muted text-decoration-line-through me-3">Giá gốc: @Model.Price.ToString("N0")</span>
+                    <span class="fw-bold text-danger fs-4">Giá mới: @Model.SalePrice.ToString("N0")</span>
+                </p>
+            </div>
+
+            <!-- Mô tả -->
+            <div class="mb-4">
+                <h6 class="fw-bold text-uppercase mb-2">Mô Tả:</h6>
+                <p class="text-muted lh-lg">@Model.Description</p>
+            </div>
+
+            <!-- Trạng thái -->
+            <div class="mb-3">
+                <p class="mb-0">
+                    <span class="fw-bold">Trạng thái:</span>
+                    @if (Model.Status)
+                    {
+                        <span class="badge bg-success">Còn hàng</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Hết hàng</span>
+                    }
+                </p>
+            </div>
+
+            <!-- Ngày đăng -->
+            <div class="mb-4">
+                <p class="mb-0">
+                    <span class="fw-bold">Ngày đăng:</span>
+                    <span class="text-muted">@Model.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")</span>
+                </p>
+            </div>
+
+            <!-- Nút quay về -->
+            <div class="mt-5">
+                <a href="/Product/Index" class="btn btn-danger rounded-0 px-5 py-2 fw-bold">Về danh sách</a>
+            </div>
+        </div>
+    </div>
+</div>

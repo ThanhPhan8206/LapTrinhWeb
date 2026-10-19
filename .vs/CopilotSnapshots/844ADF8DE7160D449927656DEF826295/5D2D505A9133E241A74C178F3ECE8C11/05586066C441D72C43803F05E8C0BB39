@@ -1,0 +1,49 @@
+﻿@model List<PhtLesson03.Models.Product>
+@{
+    ViewData["Title"] = "Sản phẩm";
+}
+
+<div class="row mt-4">
+    <!-- Cột danh mục bên trái -->
+    <div class="col-md-3">
+        <h5 class="text-uppercase mb-3">Danh mục</h5>
+        <div class="list-group rounded-0">
+            @foreach (var cat in ViewBag.Categories)
+            {
+                <a href="/Product/Index?categoryId=@cat.Id" class="list-group-item list-group-item-action border-muted">
+                    @cat.Name
+                </a>
+            }
+        </div>
+    </div>
+
+    <!-- Cột sản phẩm bên phải -->
+    <div class="col-md-9">
+        <h4 class="mb-4">Danh sách sản phẩm</h4>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 rounded-0 shadow-sm border-muted">
+                        <!-- Ảnh sản phẩm -->
+                        <img src="~/@item.Image" class="card-img-top rounded-0 p-2" alt="@item.Name" style="object-fit: cover; height: 250px;" />
+
+                        <!-- Thông tin sản phẩm -->
+                        <div class="card-body">
+                            <h6 class="card-title text-dark">@item.Name</h6>
+                            <p class="card-text text-muted mb-3" style="font-size: 0.9rem;">
+                                <del>Giá: @item.Price</del>
+                                <span class="text-dark">Giá: @item.SalePrice</span>
+                            </p>
+                        </div>
+
+                        <!-- Nút chi tiết sát đáy card -->
+                        <div class="card-footer bg-white border-0 text-center pb-3">
+                            <a href="/Product/Detail/@item.Id" class="btn btn-success rounded-0 w-75">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

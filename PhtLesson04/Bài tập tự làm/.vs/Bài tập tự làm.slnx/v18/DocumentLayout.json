@@ -90,8 +90,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-12T16:00:01.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T16:00:01.102Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T15:58:59.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:58:59.431Z"
             },
             {
               "$type": "Document",
@@ -138,7 +136,7 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\LapTrinh\\UTC_LTW\\PhtLesson04\\B\u00E0i t\u1EADp t\u1EF1 l\u00E0m\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwC8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T15:56:26.985Z",
               "EditorCaption": ""

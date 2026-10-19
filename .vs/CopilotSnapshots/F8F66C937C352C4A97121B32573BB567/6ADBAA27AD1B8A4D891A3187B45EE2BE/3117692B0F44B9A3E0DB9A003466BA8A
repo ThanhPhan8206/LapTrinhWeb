@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["Title"] = "Thanh Phan";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://google.com">12345678910</a>.</p>
+</div>

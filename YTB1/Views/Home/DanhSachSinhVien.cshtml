@@ -1,0 +1,22 @@
+﻿@model List<YTB1.Models.SinhVien>
+
+<h2>Danh sách sinh viên UTC</h2>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width: 50%;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th>Trường</th>
+            <th>Họ và Tên</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Dùng vòng lặp foreach lôi từng người trong Model ra -->
+        @foreach (var sv in Model)
+        {
+            <tr>
+                <td>@sv.Truong</td>
+                <td>@sv.HoTen</td>
+            </tr>
+        }
+    </tbody>
+</table>

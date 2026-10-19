@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhtLesson03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36ae1991d118cd903694b6c52ea395daa6f44806")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+164474a76705bcbfc6a3d2e7125320ab31d20236")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhtLesson03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhtLesson03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bài tập tự làm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+164474a76705bcbfc6a3d2e7125320ab31d20236")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95319d1dbba75803ecdf42c652c96d13688a578")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bài tập tự làm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bài tập tự làm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
