@@ -9,5 +9,11 @@ class ThongTin
     {
         Console.WriteLine("Địa chỉ: Hà Nội");
         Console.WriteLine("Sở thích: Lập trình");
+
+
+
+
+
+        
     }
 }
